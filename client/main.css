@@ -1,0 +1,16 @@
+.editIcon {
+    visibility: hidden;
+}
+
+.EditableItem:hover .editIcon {
+    visibility: visible;
+}
+
+.Client {
+    border: 1px solid black;
+    margin: 5px;
+    width: 300px;
+}
+.Filter{
+    margin: 5px;
+}
